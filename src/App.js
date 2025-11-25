@@ -279,7 +279,8 @@ const App = () => {
                 <span className="dot"></span> Available for Web Dev, Data
                 Roles, Finance Roles
               </div>
-              <h1 className="hero-title">Hi, I&apos;m Mehul More</h1>
+              <span class="section-subtitle2">Hi, I'm</span>
+              <h1 className="hero-title">Mehul More</h1>
               <p className="hero-subtitle mb-4">
                 An IT undergraduate crafting modern web applications, software
                 solutions, and data-driven insights. Bridging the gap between
