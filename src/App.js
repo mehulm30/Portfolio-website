@@ -934,7 +934,6 @@ const App = () => {
         <div className="container">
           <p className="mb-1">
             &copy; <span id="year"></span> Mehul More. All rights reserved.
-            <br>If you read this far, hire me.</br>
           </p>
           <small className="text-muted">
             Built with precision &amp; coffee.
